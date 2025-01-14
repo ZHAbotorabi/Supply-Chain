@@ -1,4 +1,9 @@
 # Supply Chain - ABC Segmentation & Kraljic Matrix
+Segmentation is the foundation of supply chain optimization, impacting inventory management, supplier relationships, marketing, and warehousing strategies. 
+Businesses must classify products, suppliers, and customers based on volume, margin contribution, and risk levels to develop efficient inventory strategies, 
+optimize supplier contracts, and maximize profitability.These are two key segmentations:
+1.	**ABC Analysis** (Single & Multi-Criteria Segmentation for Products)
+2.	**Kraljic Matrix** (Supplier Segmentation Based on Risk & Cost Impact)
 
 ## **ABC Segmentation**
 A method for inventory classification based on value contribution:
